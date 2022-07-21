@@ -1,0 +1,12 @@
+.nav-container {
+  width: 100vw;
+  height: 20%;
+  padding: 60px;
+
+  position: fixed;
+  bottom: 0;
+  left: 0;
+
+  display: flex;
+  align-items: flex-start;
+}

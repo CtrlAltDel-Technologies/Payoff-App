@@ -1,0 +1,9 @@
+.card-list-container {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.input-container {
+  width: 300px;
+}

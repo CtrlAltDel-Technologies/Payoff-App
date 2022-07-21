@@ -1,0 +1,12 @@
+.x-title {
+  position: absolute;
+  bottom: calc(20% - 10px);
+  left: 50%;
+}
+
+.y-title {
+  position: absolute;
+  top: 20%;
+  left: 10px;
+  transform: rotate(-.25turn);
+}
